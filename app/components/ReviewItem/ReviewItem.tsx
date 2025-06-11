@@ -19,7 +19,7 @@ export default function ReviewItem({
           alt="Logo"
           width={150}
           height={30}
-          // style={{ width: "auto", height: "auto" }}
+          style={{ width: "auto", height: "auto" }}
         />
       </header>
       <main>
