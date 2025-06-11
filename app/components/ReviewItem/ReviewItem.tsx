@@ -14,10 +14,11 @@ export default function ReviewItem({
   return (
     <article className="ReviewItem">
       <header>
-        {/*  */}
-        <img
+        <Image
           src={logoSrc}
           alt="Logo"
+          width={0}
+          height={0}
           style={{ width: "auto", height: "auto" }}
         />
       </header>
