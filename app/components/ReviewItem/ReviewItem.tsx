@@ -14,7 +14,7 @@ export default function ReviewItem({
   return (
     <article className="ReviewItem">
       <header>
-        <Image
+        <img
           src={logoSrc}
           alt="Logo"
           width={0}
