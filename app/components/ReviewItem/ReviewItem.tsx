@@ -17,9 +17,9 @@ export default function ReviewItem({
         <Image
           src={logoSrc}
           alt="Logo"
-          width={0}
-          height={0}
-          style={{ width: "auto", height: "auto" }}
+          width={150}
+          height={30}
+          // style={{ width: "auto", height: "auto" }}
         />
       </header>
       <main>

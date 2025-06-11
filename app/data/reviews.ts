@@ -1,6 +1,6 @@
 export const reviews = [
   {
-    logoSrc: "/logo1.png",
+    logoSrc: "/logo1.svg",
     photoSrc: "/photo1.png",
     name: "Emma Johnson",
     position: "Founder and CEO, Serene Living Products",
